@@ -4,4 +4,4 @@
 
 # Thank you
 
-Thanks to https://nat.dev for GPT-4 access!
+Thanks to https://nat.dev for GPT-4 access! This helps me explore ICL.
