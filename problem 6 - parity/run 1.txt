@@ -1,0 +1,112 @@
+Q: What is the parity of 0
+A: 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1
+A: 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0
+A: 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 0
+A: 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 0 0
+A: 0 flips 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 1 0
+A: 0 stays 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 0 1
+A: 0 stays 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 0 1 1
+A: 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 0 0
+A: 0 stays 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 0 1
+A: 0 flips 1 stays 1 flips 0 so the parity is 0
+
+Q: What is the parity of 1 1 0
+A: 0 flips 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 1 1 0
+A: 0 flips 1 flips 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 1 0 0
+A: 0 stays 0 flips 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 1 0 1
+A: 0 stays 0 flips 1 stays 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 0 0 0
+A: 0 stays 0 stays 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 0 1 0
+A: 0 flips 1 stays 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1 1 0
+A: 0 stays 0 flips 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0 1 1
+A: 0 stays 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 1 1 0 1
+A: 0 flips 1 flips 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0 1 1
+A: 0 flips 1 stays 1 flips 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 0
+A: 0 flips 1 stays 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 1 0 0
+A: 0 flips 1 flips 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0 0 1
+A: 0 stays 0 stays 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 0 0 1 0
+A: 0 stays 0 stays 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 1
+A: 0 flips 1 stays 1 stays 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 1 1 1
+A: 0 stays 0 flips 1 flips 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 1 0 0 1
+A: 0 flips 1 flips 0 stays 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 1 0
+A: 0 flips 1 stays 1 stays 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 1 1 1 0
+A: 0 flips 1 flips 0 flips 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1 0 0 0
+A: 0 stays 0 flips 1 stays 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 1 1
+A: 0 flips 1 stays 1 stays 1 flips 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0 1 1 1
+A: 0 flips 1 stays 1 flips 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 1 1 0 0 0
+A: 0 flips 1 flips 0 stays 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1 0 1 0
+A: 0 stays 0 flips 1 stays 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0 0 1 0
+[SCRIPT] A: 0 stays 0 stays 0 stays 0 flips 1 stays 1 so the parity is 1
+[GPT4] A: 0 stays 0 stays 0 stays 0 flips 1 stays 1 so the parity is 1
+[ChatGPT]Q: Can you explain what a Turing test is?
+A: The Turing test is a test of a machine's ability to exhibit intelligent behavior that is indistinguishable from that of a human. The test involves a human evaluator who engages in a natural language conversation with a machine and a
+
+[Me]A: 0 
+[ChatGPT]I'm sorry, it seems like the message was cut off. Could you please complete your question so I can assist you?
+[Me] delete some examples from the middle
+[ChatGPT]stays 0 stays 0 flips 1 stays 0 so the parity is 1 [CORRECT]

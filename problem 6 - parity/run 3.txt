@@ -1,0 +1,76 @@
+Q: What is the parity of 0
+A: 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0
+A: 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 0
+A: 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 1
+A: 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 0 1 1
+A: 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 0 1
+A: 0 stays 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 0 0 0
+A: 0 stays 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1 0
+A: 0 stays 0 flips 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 1 0
+A: 0 flips 1 flips 0 stays 0 so the parity is 0
+
+Q: What is the parity of 1 0 0
+A: 0 flips 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 0 1
+A: 0 flips 1 stays 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 0 0 0 0
+A: 0 stays 0 stays 0 stays 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0 0 1 1
+A: 0 stays 0 stays 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 1 0 1 0 1
+A: 0 stays 0 flips 1 stays 1 flips 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 1 0 1 0 0
+A: 0 flips 1 flips 0 stays 0 flips 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 1 1 0 0 0
+A: 0 flips 1 flips 0 flips 1 stays 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 1 0 1
+A: 0 flips 1 stays 1 stays 1 flips 0 stays 0 flips 1 so the parity is 1
+
+Q: What is the parity of 1 0 0 1 1 1
+A: 0 flips 1 stays 1 stays 1 flips 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 0 1 1 0 0
+A: 0 stays 0 stays 0 flips 1 flips 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 0 1 0 0 0
+A: 0 stays 0 stays 0 flips 1 stays 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 1 0 1 0 1 1
+A: 0 flips 1 stays 1 flips 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 1 0 1 0 0 1 1
+A: 0 flips 1 stays 1 flips 0 stays 0 stays 0 flips 1 flips 0 so the parity is 0
+
+Q: What is the parity of 0 1 1 0 1 0 0
+A: 0 stays 0 flips 1 flips 0 stays 0 flips 1 stays 1 stays 1 so the parity is 1
+
+Q: What is the parity of 0 1 0 0 1 0 0
+A: 0 stays 0 flips 1 stays 1 stays 1 flips 0 stays 0 stays 0 so the parity is 0
+
+Q: What is the parity of 0 1 1 0 1 0 1
+[SCRIPT ]A: 0 stays 0 flips 1 flips 0 stays 0 flips 1 stays 1 flips 0 so the parity is 0
+[ChatGPT]A: 0 stays 0 flips 1 flips 0 stays 0 flips 1 stays 0 flips 1 so the parity is 1. [WRONG]
+[GPT4   ]A: 0 stays 0 flips 1 flips 0 stays 0 flips 1 stays 1 flips 0 so the parity is 0 [CORRECT]

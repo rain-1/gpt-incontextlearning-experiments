@@ -1,0 +1,18 @@
+Q: Think step by step. What is the parity of 0
+A: 0 then 0 so the answer is 0
+
+Q: Think step by step. What is the parity of 1
+A: 0 then 1 so the answer is 1
+
+Q: Think step by step. What is the parity of 00
+A: 0 then 0 then 0 so the answer is 0
+
+Q: Think step by step. What is the parity of 01
+A: 0 then 0 then 1 so the answer is 1
+
+Q: Think step by step. What is the parity of 10
+A: 0 then 1 then 1 so the answer is 1
+
+Q: Think step by step. What is the parity of 11
+A: 0 then 1 then 0 so the answer is 0
+
