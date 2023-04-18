@@ -6,6 +6,7 @@
 * Problem 4: natural substitution `The coffee was nice and hot`
 * Problem 5: -
 * Problem 6: parity `001011 -> 1`
+* Problem 7: wonderland recall `“Exactly so,” said Alice.`
 
 # References
 
