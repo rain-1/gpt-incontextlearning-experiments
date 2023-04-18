@@ -1,0 +1,25 @@
+randy passed the ball
+(sentence (noun randy) (vp (verb passed) (np (det the) (noun ball))))
+
+the rat ate the cheese
+(sentence (np (det the) (noun rat)) (vp (verb ate) (noun cheese)))
+
+the dog saw a man in the park
+(sentence (np (det the) (noun dog)) (vp (verb saw) (np (det a) (noun man)) (pp (p in) (np (det the) (noun park)))))
+
+the angry bear chased the frightened little squirrel
+(sentence (np (det the) (nom (adjective angry) (noun bear))) (vp (verb chased) (np (det the) (nom (adjective frightened) (nom (adj little) (noun squirrel))))))
+
+the little rabbit saw fine thin ears in the brook
+(sentence (np (det the) (nom (adj little) (noun rabbit))) (vp (vp (verb saw) (np (nom (adj fine) (adj thin) (noun ears)))) (pp (p in) (np (det the) (noun brook)))))
+
+ChatGPT answered:
+
+(sentence
+(np (det the) (nom (adj little) (noun rabbit)))
+(vp
+(verb saw)
+(np (nom (adj fine) (adj thin) (noun ears)) (pp (p in) (np (det the) (noun brook))))))
+
+
+I Used examples from https://gitmind.com/parse-tree.html and the top results on google images

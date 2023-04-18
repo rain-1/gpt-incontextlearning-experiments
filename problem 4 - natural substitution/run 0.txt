@@ -1,0 +1,41 @@
+James was a man who loved his coffee
+s/James/Lucy/
+James was a woman who loved her coffee
+
+The cat sat on the mat and purred
+s/cat/dog/
+The dog lay on the mat and slept
+
+The coffee was nice and hot
+s/coffee/cola/
+The cola was nice and cold
+
+I drank an entire jug of water
+s/water/cake/
+
+I ate an entire cake.
+
+
+
+
+James was a man who loved his coffee
+s/James/Lucy/
+Lucy was a woman who loved her coffee
+
+The cat sat on the mat and purred
+s/cat/dog/
+The dog lay on the mat and slept
+
+The coffee was nice and hot
+s/coffee/cola/
+The cola was nice and cold
+
+I drank an entire jug of water
+s/water/cake/
+1 / 3
+
+I'm sorry, but it doesn't make sense to replace "water" with "cake" in this sentence. Can you please provide me with a different sentence to work on?
+
+
+only works when I make a mistake in the original line. Odd.
+

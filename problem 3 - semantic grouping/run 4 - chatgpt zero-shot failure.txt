@@ -1,0 +1,20 @@
+This is a task of grouping the given items into two lists based on certain criteria. In this case, the items are being sorted into two lists such that the first list contains the names of animals in alphabetical order and the second list contains the names of non-animal objects (such as furniture, diseases, etc.) in alphabetical order.
+input: lamp, couch, gold, giraffe, aluminum, Steve Jobs, Alan Turing, zebra
+
+Here are the two lists, as requested:
+
+List 1: Names of Animals in Alphabetical Order
+
+    Giraffe
+    Zebra
+
+List 2: Names of Non-Animal Objects in Alphabetical Order
+
+    Alan Turing
+    Aluminum
+    Couch
+    Gold
+    Lamp
+    Steve Jobs
+
+I hope this helps! Let me know if you have any other questions.

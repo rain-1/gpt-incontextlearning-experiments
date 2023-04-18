@@ -1,0 +1,43 @@
+
+input: lamp, giraffe, table, zebra, elephant, chair
+output: ['zebra', 'elephant', 'giraffe'], ['chair', 'table', 'lamp']
+
+input: bookshelf, chair, lamp, elephant, giraffe, zebra
+output: ['zebra', 'elephant', 'giraffe'], ['bookshelf', 'lamp', 'chair']
+
+input: tiger, airplane, elephant, zebra, motorcycle, bicycle
+output: ['elephant', 'zebra', 'tiger'], ['motorcycle', 'airplane', 'bicycle']
+
+input: car, airplane, boat, tiger, giraffe, elephant
+output: ['elephant', 'giraffe', 'tiger'], ['boat', 'airplane', 'car']
+
+input: tiger, COVID-19, influenza, giraffe, lion, HIV
+output: ['lion', 'tiger', 'giraffe'], ['influenza', 'COVID-19', 'HIV']
+
+input: COVID-19, HIV, tiger, Zika, lion, elephant
+output: ['elephant', 'tiger', 'lion'], ['Zika', 'HIV', 'COVID-19']
+
+input: car, airplane, boat, table, couch, bookshelf
+output: ['couch', 'table', 'bookshelf'], ['boat', 'car', 'airplane']
+
+input: bookshelf, Steve Jobs, table, Tim Berners-Lee, chair, Ada Lovelace
+output: ['bookshelf', 'chair', 'table'], ['Steve Jobs', 'Tim Berners-Lee', 'Ada Lovelace']
+
+input: chair, airplane, car, COVID-19, Ebola, Zika, boat, couch, bookshelf
+output: ['chair', 'couch', 'bookshelf'], ['airplane', 'boat', 'car'], ['Ebola', 'COVID-19', 'Zika']
+
+input: car, Ebola, boat, chair, airplane, Zika, lamp, COVID-19, table
+output: ['chair', 'lamp', 'table'], ['airplane', 'boat', 'car'], ['COVID-19', 'Ebola', 'Zika']
+
+input: table, lion, zebra, chair, Alan Turing, bookshelf, Tim Berners-Lee, bicycle, giraffe, Steve Jobs, boat, car
+output: ['giraffe', 'lion', 'zebra'], ['chair', 'table', 'bookshelf'], ['car', 'boat', 'bicycle'], ['Alan Turing', 'Steve Jobs', 'Tim Berners-Lee']
+
+input: chair, tiger, table, COVID-19, bookshelf, motorcycle, Ebola, lion, giraffe, HIV, bicycle, boat
+output: ['tiger', 'giraffe', 'lion'], ['bookshelf', 'table', 'chair'], ['bicycle', 'motorcycle', 'boat'], ['HIV', 'Ebola', 'COVID-19']
+
+input: Transistor, gold, Resistor, Thursday, copper, Diode, Monday, iron, Wednesday
+[ChatGPT] I'm sorry, but I cannot generate an output for this input as it is not clear what type of output is desired. Could you please provide more information or clarify the task?
+[GPT4] output: ['Transistor', 'Resistor', 'Diode'], ['gold', 'copper', 'iron'], ['Monday', 'Wednesday', 'Thursday']
+[ChatGPT retry]output: ['Copper', 'Gold', 'Iron'], ['Thursday', 'Monday', 'Wednesday'], ['Resistor', 'Transistor', 'Diode']
+
+Note: The output is sorted in alphabetical order for the days of the week, and the electronic components are sorted in alphabetical order ignoring the first character being uppercase or lowercase.

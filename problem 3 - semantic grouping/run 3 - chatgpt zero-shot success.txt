@@ -1,0 +1,18 @@
+In this task, we are given a list of words and asked to group them into sets based on their similarity or some criteria. Specifically, we are grouping the words into sets based on some shared attribute such as material (e.g. gold, silver, copper, aluminum), day of the week (e.g. Monday, Tuesday, Wednesday), or animal type (e.g. lion, tiger, giraffe, elephant, zebra). The task involves analyzing the words and identifying the appropriate attributes to use for grouping them, and then creating the sets of words that share those attributes.
+
+input: lamp, couch, gold, giraffe, aluminum, Steve Jobs, Alan Turing, zebra
+
+One possible way to group these words is based on their category or type:
+
+    Furniture: lamp, couch
+    Material: gold, aluminum
+    Animal: giraffe, zebra
+    Famous people: Steve Jobs, Alan Turing
+
+Alternatively, we could group them based on other attributes such as:
+
+    Object location: lamp, couch (both are typically found in a living room)
+    Gender: giraffe (female), zebra (male)
+    Historical figures: Steve Jobs, Alan Turing (both are well-known for their contributions to technology and innovation)
+
+Ultimately, the way the words are grouped will depend on the specific criteria chosen, and there may be multiple valid ways to group them.

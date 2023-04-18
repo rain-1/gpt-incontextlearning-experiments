@@ -1,0 +1,23 @@
+
+input: Zika, Ada Lovelace, HIV, gold, zebra, Friday, silver, Thursday, lamp, giraffe, Grace Hopper, couch, COVID-19, aluminum, tiger, Tuesday, Alan Turing, Steve Jobs, chair, elephant, influenza, copper, table, Wednesday
+output: ['couch', 'lamp', 'chair', 'table'], ['Zika', 'HIV', 'COVID-19', 'influenza'], ['Thursday', 'Wednesday', 'Tuesday', 'Friday'], ['aluminum', 'copper', 'silver', 'gold'], ['Steve Jobs', 'Grace Hopper', 'Ada Lovelace', 'Alan Turing'], ['elephant', 'tiger', 'giraffe', 'zebra']
+
+input: HIV, chair, Friday, zebra, Monday, Capacitor, Tim Berners-Lee, gold, influenza, Zika, lion, Resistor, aluminum, lamp, Alan Turing, Thursday, copper, Transistor, Ada Lovelace, bookshelf, elephant
+output: ['Resistor', 'Capacitor', 'Transistor'], ['gold', 'aluminum', 'copper'], ['Thursday', 'Friday', 'Monday'], ['Zika', 'HIV', 'influenza'], ['lion', 'zebra', 'elephant'], ['bookshelf', 'chair', 'lamp'], ['Ada Lovelace', 'Alan Turing', 'Tim Berners-Lee']
+
+input: aluminum, COVID-19, influenza, iron
+output: ['COVID-19', 'influenza'], ['aluminum', 'iron']
+
+input: lion, Transistor, Steve Jobs, giraffe, bookshelf, gold, Alan Turing, iron, chair, Inductor
+output: ['bookshelf', 'chair'], ['Inductor', 'Transistor'], ['Steve Jobs', 'Alan Turing'], ['lion', 'giraffe'], ['iron', 'gold']
+
+input: lamp, couch, gold, giraffe, aluminum, Steve Jobs, Alan Turing, zebra
+output: ['giraffe', 'zebra'], ['couch', 'lamp'], ['aluminum', 'gold'], ['Steve Jobs', 'Alan Turing'] <- GEN
+output: ['couch', 'lamp'], ['gold', 'aluminum'], ['Steve Jobs', 'Alan Turing'], ['giraffe', 'zebra'] <- GPT 
+
+
+What task was being performed here?
+2 / 2
+
+In this task, we are given a list of words and asked to group them into sets based on their similarity or some criteria. Specifically, we are grouping the words into sets based on some shared attribute such as material (e.g. gold, silver, copper, aluminum), day of the week (e.g. Monday, Tuesday, Wednesday), or animal type (e.g. lion, tiger, giraffe, elephant, zebra). The task involves analyzing the words and identifying the appropriate attributes to use for grouping them, and then creating the sets of words that share those attributes.
+
