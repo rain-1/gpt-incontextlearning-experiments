@@ -1,0 +1,44 @@
+March and July gives False
+May and May gives False
+October and October gives False
+April and April gives False
+November and October gives False
+Dog and August gives True
+Dragon and Rooster gives False
+Dog and Goat gives False
+November and Rat gives True
+Dog and Horse gives False
+Tiger and Pig gives False
+Goat and September gives True
+November and Rooster gives True
+February and Pig gives True
+Snake and Monkey gives False
+March and March gives False
+Pig and April gives True
+Horse and May gives True
+Monkey and Tiger gives False
+June and Monkey gives True
+January and Rabbit gives True
+Tiger and July gives True
+Rooster and Rat gives False
+August and June gives False
+Ox and Rooster gives False
+Snake and September gives True
+Pig and Dragon gives False
+Horse and Dog gives False
+Horse and Monkey gives False
+August and July gives False
+Ox and June gives [True]
+
+[Me]Why is that the answer?
+
+The pattern seems to be related to the Chinese zodiac and the Gregorian calendar months. The Chinese zodiac has 12 animal signs, and there are 12 months in a year. The answers seem to be True when the two elements in each pair belong to the same category (either both are Chinese zodiac signs or both are months) and have the same parity (either both are even or both are odd).
+
+For example, Dog and August gives True because Dog is an odd-numbered Chinese zodiac sign (11th in the cycle) and August is an even-numbered month (8th month). Similarly, Goat and September gives True because Goat is an odd-numbered Chinese zodiac sign (7th in the cycle) and September is an odd-numbered month (9th month).
+
+On the other hand, pairs like March and July give False because although both are months, one is odd (March, 3rd month) and the other is even (July, 7]
+
+
+> correct answer given.
+
+> correct explanation given.

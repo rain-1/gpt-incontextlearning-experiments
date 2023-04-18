@@ -1,0 +1,18 @@
+write a python script that prints out a random month and random animal (12 animals)
+
+Here's a Python script that uses the random module to print out a random month and a random animal:
+
+python
+
+import random
+
+months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+animals = ['Rat', 'Ox', 'Tiger', 'Rabbit', 'Dragon', 'Snake', 'Horse', 'Goat', 'Monkey', 'Rooster', 'Dog', 'Pig']
+
+random_month = random.choice(months)
+random_animal = random.choice(animals)
+
+print(f"Random month: {random_month}")
+print(f"Random animal: {random_animal}")
+
+This script creates two lists, months and animals, and then uses the random.choice() method to select a random element from each list. It then prints out the randomly selected month and animal using f-strings.
