@@ -9,4 +9,4 @@ The problem is to calculate the parity of a bitstring.
 ## Conclusion
 
 GPT-4 was better at this task. It stayed on track much better, answering in the intended format. It did not have perfect performance, it dropped some reasoning steps in one example but still got the correct result.
-In run 2 ChatGPT creatively tried to solve the problem in its own way.
+In run 2 ChatGPT creatively tried to solve the problem in its own way. Even when following the intended pattern ChatGPT dropped part of the reasoning.
