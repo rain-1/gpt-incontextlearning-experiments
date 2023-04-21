@@ -6,10 +6,6 @@ The problem is to get the language model to recite pieces of alice of wonderland
 
 I found that adding `Continue the quote` after the passage was the best way to get it to try to recall the exact text rather than freeform generate plausible text.
 
-# Graphs of Results
-
-![](sin.png)
-
 # Conclusion
 
 This demonstrates near-exact recall of some pieces of the training data that was used. We are getting success on the majority of cases.
