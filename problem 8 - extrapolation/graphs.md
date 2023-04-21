@@ -21,11 +21,11 @@
 
 ### Sine
 
-![](sine gpt4.png)
-![](sine2 gpt4.png)
-![](sine3 gpt4.png)
+![](sine%20gpt4.png)
+![](sine2%20gpt4.png)
+![](sine3%20gpt4.png)
 
 ### Line
 
-![](line1 gpt4.png)
-![](line2 gpt4.png)
+![](line1%20gpt4.png)
+![](line2%20gpt4.png)
