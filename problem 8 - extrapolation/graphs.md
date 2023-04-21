@@ -5,6 +5,8 @@
 
 ### Sin
 
+(first one forgot to include noise)
+
 ![](sin.png)
 ![](sin2.png)
 ![](sin3.png)
